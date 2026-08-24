@@ -177,3 +177,7 @@ targets, and what's in/out of scope.
 ## License
 
 Apache-2.0 — see [LICENSE](LICENSE).
+
+## Code of Conduct
+
+See [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
